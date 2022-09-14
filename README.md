@@ -29,3 +29,13 @@
 8. program for anagram - day 3
 9. program for regular expression - day 3
 10. program for string operations - day 3
+1. program for string array - day 4
+2. program for student users - day 4
+3. program for smaller than current number - day 4
+4. program for valid palindrome - day 4
+5. program for minimum no of steps - day 4
+6. program for deleting character - day 4
+7. program for sorted vowels -day 4
+8. program for roman to integer - day 4
+9. program for season - day 4
+10. program for scramble string - day 4
